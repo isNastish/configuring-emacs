@@ -3,7 +3,9 @@
 // to apply M+x revert buffer
 
 
-* Lesson 1 // change places with Lesson 2 Alt + arrow to down, or to up 
+* Lesson 1 
+ // change places with Lesson 2 Alt + arrow to down, or to up 
+ // Ctrl + c, Ctrl + o - go by link  back space show link, ] - unshow
 ** Part 1 // tab - roll block
   Intoducing the series and settings up the package manager
   - Show melpa
@@ -17,8 +19,6 @@
   - riview init.el
   - set up Readme.org
 
-* Links
-  -[[http://cestlaz.github.io][blog instructions]] // Ctrl + c, Ctrl + o - go by link  back space show link, ] - unshow
 
 
 * Lesson3 
